@@ -41,3 +41,8 @@ Install the required libraries using:
 ```bash  
 pip install pandas numpy matplotlib seaborn nltk scikit-learn torch
 
+## RESULTS
+![Alt Text](![Screenshot 2025-02-28 195356](https://github.com/user-attachments/assets/b82cc714-ebc6-4178-b656-37402ad1d5bc)
+)
+
+
