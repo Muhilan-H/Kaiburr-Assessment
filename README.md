@@ -39,9 +39,10 @@ This project demonstrates **complaint categorization** using both **Logistic Reg
 
 
 ## RESULTS
-![Classification Report--- Logistic Regression]("C:\Users\Muhilan\Pictures\Screenshots\Screenshot 2025-02-28 195356.png")
-
-![Classification Report--- BiLSTM Model]("C:\Users\Muhilan\Pictures\Screenshots\Screenshot 2025-02-28 195810.png")
+## BiLSTM Model Classification Report 
+![Classification Report--- Logistic Regression](https://github.com/Muhilan-H/Kaiburr-Assessment/blob/main/Screenshot%202025-02-28%20195810.png)
+## Logistic Regression Classification Report
+![Classification Report--- BiLSTM Model](https://github.com/Muhilan-H/Kaiburr-Assessment/blob/main/Screenshot%202025-02-28%20195356.png)
 
 ### **Requirements**  
 Install the required libraries using:  
