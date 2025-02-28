@@ -36,13 +36,13 @@ This project aims to **classify consumer complaints** into different product cat
 This project demonstrates **complaint categorization** using both **Logistic Regression and BiLSTM models**. BiLSTM outperforms Logistic Regression due to its ability to capture **long-term dependencies** and **contextual relationships** in text.
 
 ## **Installation & Setup**  
-### **Requirements**  
-Install the required libraries using:  
-```bash  
-pip install pandas numpy matplotlib seaborn nltk scikit-learn torch
+
 
 ## RESULTS
 ![Alt Text](![Screenshot 2025-02-28 195356](https://github.com/user-attachments/assets/b82cc714-ebc6-4178-b656-37402ad1d5bc)
 )
-
+### **Requirements**  
+Install the required libraries using:  
+```bash  
+pip install pandas numpy matplotlib seaborn nltk scikit-learn torch
 
