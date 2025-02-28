@@ -39,8 +39,10 @@ This project demonstrates **complaint categorization** using both **Logistic Reg
 
 
 ## RESULTS
-![Alt Text](![Screenshot 2025-02-28 195356](https://github.com/user-attachments/assets/b82cc714-ebc6-4178-b656-37402ad1d5bc)
-)
+![Classification Report--- Logistic Regression]("C:\Users\Muhilan\Pictures\Screenshots\Screenshot 2025-02-28 195356.png")
+
+![Classification Report--- BiLSTM Model]("C:\Users\Muhilan\Pictures\Screenshots\Screenshot 2025-02-28 195810.png")
+
 ### **Requirements**  
 Install the required libraries using:  
 ```bash  
